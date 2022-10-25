@@ -3,7 +3,7 @@
     <title>CheckIndex</title>
    </head>
    <body>
-    <?php echo '<p>Hello world from php! G9 love_2022 Declare</p>'; ?>
+    <?php echo '<p>Hello world from php! G9 love_2025 Declare</p>'; ?>
    </body>
 </html>
     
